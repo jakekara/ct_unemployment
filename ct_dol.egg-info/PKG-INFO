@@ -1,8 +1,8 @@
 Metadata-Version: 1.0
 Name: ct-dol
-Version: 0.1
+Version: 0.1.1
 Summary: A tool for pulling down ct unemployment as a dataframe
-Home-page: UNKNOWN
+Home-page: https://github.com/jakekara/ct_unemployment
 Author: Jake Kara
 Author-email: jake@jakekara.com
 License: GPL-3
