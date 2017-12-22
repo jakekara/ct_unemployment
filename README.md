@@ -4,7 +4,10 @@ Get unemployment data from DOL in a more usable format.
 
 I think this probably works on Python 3, but I use 2, so I wouldn't know.
 
-## install
+## install from github
+
+    pip install git+git://github.com/jakekara/ct_unemployment.git
+
 
 ## usage in python script
 
